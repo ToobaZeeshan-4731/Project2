@@ -1,0 +1,29 @@
+<!DOCTYPE Html>
+<html lang="en">
+<head>
+    <title>
+        Project
+    </title>
+    <link href="2 style.css" rel="stylesheet" type="text/css">
+</head>
+
+<body>
+    <h1>Welcome to my room</h1>
+    <h2>My room consists of:</h2>
+    <ul>
+        <li>Study table</li>
+        <li>wardrobe</li>
+        <li>Bed</li>
+        <li>Picture Frames on wall</li>
+        <p>
+            It is a place for me to relaxe myself after an exhausted shedule of whole day
+        </p>
+        <p>
+            I like it very much.
+        </p>
+        <a href=#>Want to know more</a>
+        <a href=#>Design of my room</a>
+    </ul>
+</body>
+
+</html>

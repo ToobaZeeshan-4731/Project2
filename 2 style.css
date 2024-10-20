@@ -1,0 +1,55 @@
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: black;
+    color:cyan;
+    margin-left: 40px;
+}
+
+h1{
+    color: burlywood;
+}
+
+a{
+    color:blueviolet;
+    text-decoration: none; 
+}
+a:hover {
+    color: chocolate;
+}
+
+ul>li {
+    font-weight: bold;
+    font-style: italic;
+    font-size: larger;
+}
+
+h1+p {
+    background-color: brown;
+    padding: 10px;
+    border-radius: 5px;}
+
+ul li:hover {
+    color: orange;
+}
+
+ul li:nth-child(4) {
+    background-color: rgb(5, 29, 29);
+}
+
+p:not(:first-child) {
+    text-decoration: underline;
+}
+
+ul li::before {
+    content: "🐱‍💻";
+}
+
+a::after {
+    content: "🐱‍💻";
+}
+
+p::first-letter {
+    font-size: 250%;
+    color: brown
+}
+
